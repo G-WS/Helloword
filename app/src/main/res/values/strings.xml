@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Helloword ZHY！</string>
+    <string name="hello_word_zhy">hello word zhy</string>
+    <string name="edit_message">enter a message</string>
+    <string name="button_send">send</string>
+</resources>
